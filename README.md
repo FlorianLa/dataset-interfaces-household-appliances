@@ -1,4 +1,5 @@
 ## A Dataset and Machine Learning Approach to Classify and Augment Interface Elements of Household Appliances to Support People with Visual Impairment
+Our work is published under GNU GPLv3. However, for some files, e.g., backups of the used repositories or the published paper, other licenses may apply.
 The ACM Link, DOI and other infomation will be added here, after the paper is published.
 
 ### General information and Disclaimer
