@@ -30,7 +30,7 @@
 
     "description" : "Here, we provide a dataset of images of interfaces from household appliances, where all interface elements are labled with one of five different types of interface elements. Further, we provide auxillary materials to use and extend the dataset.",
 
-    "license": "GNU GPLv3",
+    "license": "GPL-3.0-only",
 
     "title": "A Dataset and Machine Learning Approach to Classify and Augment Interface Elements of Household Appliances to Support People with Visual Impairment",
 
