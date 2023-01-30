@@ -34,7 +34,5 @@
 
     "title": "A Dataset and Machine Learning Approach to Classify and Augment Interface Elements of Household Appliances to Support People with Visual Impairment",
 
-    "keywords": ["Dataset", "Neural Network", "Object Recognition", "Household Appliance", "Visual Impairment", "Augmented Reality", "Low Vision", "Accessibility"],
-
-    "grants": [{"id":"BMBF IDeA - 16SV8102"}, {"id":"BMBF Hive - 16SV8183"}]
+    "keywords": ["Dataset", "Neural Network", "Object Recognition", "Household Appliance", "Visual Impairment", "Augmented Reality", "Low Vision", "Accessibility"]
 }
